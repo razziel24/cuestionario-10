@@ -1,0 +1,109 @@
+{
+  "questions": {
+    "question": [
+      {
+        "-id": "pregunta1",
+        "type": "text",
+        "title": "Pregunta 1:¿Cual es considerado el número 1 de los mejores guitarristas?",
+        "answer": "Jimi Hendrix"
+      },
+      {
+        "-id": "pregunta2",
+        "type": "text",
+        "title": "Pregunta 2:¿Como se llama el cantante de Queen?",
+        "answer": "Freddy Mercury"
+      },
+      {
+        "-id": "pregunta3",
+        "type": "select",
+        "title": "Pregunta 3: ¿Cual cancion no pertenece a Metallica?",
+        "option": [
+          "Nothing Else Matters",
+          "Enter Sandman",
+          "Holy Diver",
+          "Seek and Destroy"
+        ],
+        "answer": "2"
+      },
+      {
+        "-id": "pregunta4",
+        "type": "checkbox",
+        "title": "Pregunta 4: ¿Cual de estos grupos son de metal y no rock?",
+        "option": [
+          "Radiohead",
+          "Rammstein",
+          "Avenged Sevenfold",
+          "U2"
+        ],
+        "answer": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "-id": "pregunta5",
+        "type": "multiple",
+        "title": "Pregunta 5: Aqui hay bajistas que no siguen con vida, selecciona cuales son.",
+        "option": [
+          "Geddy Lee",
+          "Cliff Burton",
+          "Jaco Pastorius",
+          "Flea"
+        ],
+        "answer": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "-id": "pregunta6",
+        "type": "select",
+        "title": "Pregunta 6: ¿Como se llama el fundador de Megadeth?",
+        "option": [
+          "Angus Young",
+          "David Mustaine",
+          "James Hetfield"
+        ],
+        "answer": "1"
+      },
+      {
+        "-id": "pregunta7",
+        "type": "checkbox",
+        "title": "Pregunta 7: ¿Cuales de estos grupos son de los 70?",
+        "option": [
+          "Led Zeppelin",
+          "Metallica",
+          "Soundgarden",
+          "AC/DC"
+        ],
+        "answer": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "-id": "pregunta8",
+        "type": "radio",
+        "title": "Pregunta 8: ¿Cual es cancion de Red Hot Chili Peppers?",
+        "option": [
+          "Scar Tissue",
+          "Highway to Hell",
+          "The Final Coutdown"
+        ],
+        "answer": "0"
+      },
+      {
+        "-id": "pregunta9",
+        "type": "text",
+        "title": "Pregunta 9: El nombre del guitarrista de Guns 'n Roses es...",
+        "answer": "Slash"
+      },
+      {
+        "-id": "pregunta10",
+        "type": "text",
+        "title": "Pregunta 10: Los Sex Pistols son un grupo de...",
+        "answer": "Punk"
+      }
+    ]
+  }
+}

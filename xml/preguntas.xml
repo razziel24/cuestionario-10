@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions>
+    <question id="pregunta_001">
+	<type>text</type>
+	<title>Pregunta 1:¿Cual es considerado el número 1 de los mejores guitarristas?</title>
+	<answer>Jimi Hendrix</answer>
+    </question>
+	
+	<question id="pregunta_002">
+	<type>text</type>
+	<title>Pregunta 2:¿Como se llama el cantante de Queen?</title>
+	<answer>Freddy Mercury</answer>
+    </question>
+	
+	<question id="pregunta_003">
+	<type>select</type>
+	<title>Pregunta 3: ¿Cual cancion no pertenece a Metallica?</title>
+	<option>Nothing Else Matters</option>
+	<option>Enter Sandman</option>
+	<option>Holy Diver</option>
+	<option>Seek and Destroy</option>
+	<answer>2</answer>
+    </question>
+	
+	<question id="pregunta_004">
+	<type>select</type>
+	<title>Pregunta 4: ¿Cual es grupo de metal y no rock?</title>
+	<option>Radiohead</option>
+	<option>Rammstein</option>
+	<option>AC/DC</option>
+	<option>U2</option>
+	<answer>1</answer>
+    </question>
+	
+	 <question id="pregunta_005">
+	<type>select</type>
+	<title>Pregunta 5: Aqui hay un bajista que no sigue con vida, selecciona cual es.</title>
+	<option>Geddy Lee</option>
+	<option>Cliff Burton</option>
+	<option>Flea</option>
+	<answer>1</answer>
+    </question>
+	
+	<question id="pregunta_006">
+	<type>select</type>
+	<title>Pregunta 6: ¿Como se llama el fundador de Megadeth?</title>
+	<option>Angus Young</option>
+	<option>David Mustaine</option>
+	<option>James Hetfield</option>
+	<answer>1</answer>
+    </question>
+	
+	<question id="pregunta_007">
+	<type>select</type>
+	<title>Pregunta 7: ¿Cual de estos grupos es de los 70?</title>
+	<option>Led Zeppelin</option>
+	<option>Metallica</option>
+	<option>Soundgarden</option>
+	<answer>0</answer>
+    </question>
+	
+	<question id="pregunta_008">
+	<type>select</type>
+	<title>Pregunta 8: ¿Cual es cancion de Red Hot Chili Peppers?</title>
+	<option>Scar Tissue</option>
+	<option>Highway to Hell</option>
+	<option>The Final Coutdown</option>
+	<answer>0</answer>
+    </question>
+	
+	<question id="pregunta_009">
+	<type>text</type>
+	<title>Pregunta 9: El nombre del guitarrista de Guns 'n Roses es...</title>
+	<answer>Slash</answer>
+    </question>
+	
+	<question id="pregunta_010">
+	<type>text</type>
+	<title>Pregunta 10: Los Sex Pistols son un grupo de...</title>
+	<answer>Punk</answer>
+    </question>
+
+</questions>	
+	
+	
+	
+	
+	
+    
+	
+	
